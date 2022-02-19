@@ -1,5 +1,5 @@
 # robofriends
-Tutorial for React
+Part of [Zero to Mastery's Complete Web Development](https://academy.zerotomastery.io/p/complete-web-developer-zero-to-mastery) course.
 To run the project:
 
 1. Clone this repo
